@@ -1,0 +1,15 @@
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20160930_dCGH_filt/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20161002_delly_illumina/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20161001_GenomeSTRiP_CNV/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20160930_kchen_novobreak/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20170110_ALL_pindel_illumina_sites_and_genotypes/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20161003_retroCNV/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20170109_svelter_update/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20161002_VH/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20160930_wham_lumpy/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20160930_wham_lumpy/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20161108_UCSD_ForestSV/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20161108_UCSD_Manta/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20160930_MELT/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160930_pre_ashg_calls/20161011_Tardis_MEI_Calls/
+wget -m ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20160501_pre_cshl_calls/liWGS_SV
